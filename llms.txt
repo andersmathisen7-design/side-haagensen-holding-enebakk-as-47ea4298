@@ -7,8 +7,8 @@
 
 ## Tjenester
 
-- Reparasjon: Reparasjon av biler og andre motorvogner når noe ikke er som det skal.
-- Vedlikehold: Vedlikehold av biler og andre motorvogner, så kjøretøyet holder seg i god stand.
+- Reparasjon: Når bilen lager rare lyder, en lampe lyser eller noe ikke virker som det skal.
+- Vedlikehold: Jevnlig vedlikehold, så bilen holder seg i god stand lenger.
 
 ## Om nettsiden
 

@@ -1,0 +1,25 @@
+{
+  "name": "Haagensen Holding Enebakk AS",
+  "short_name": "Haagensen",
+  "description": "Bilverksted i Enebakk. Vi reparerer og vedlikeholder biler og andre motorvogner. Ta kontakt på telefon eller e-post for å avtale tid.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b2a3a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

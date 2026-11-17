@@ -1,0 +1,15 @@
+# Haagensen Holding Enebakk AS
+
+- Bransje: Reparasjon og vedlikehold av motorvogner
+- Sted: Enebakk
+- E-post: post@haagensen-holding.no
+- Telefon: 454 79 070
+
+## Tjenester
+
+- Reparasjon: Reparasjon av biler og andre motorvogner når noe ikke er som det skal.
+- Vedlikehold: Vedlikehold av biler og andre motorvogner, så kjøretøyet holder seg i god stand.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
